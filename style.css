@@ -37,6 +37,7 @@ body{
     background-color: #DB504B;
     padding: 2px;
     color: white;
+    
 
 }
 .logo{
@@ -145,3 +146,152 @@ h5{
     font-size: 14px;
     color: #DB504B;
 }
+.Sandbox{
+    display: flex;
+    flex-direction: column;
+   margin-top: 150px;
+   
+}
+.sandbox1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+    
+}
+
+
+
+.reasons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+
+    padding: 10px;
+    margin: 0 10px;
+    gap: 10px;
+    border-radius: 5px;
+
+}
+.reasons:hover{ 
+    background-color: #DB504B;
+    color: white;
+}
+ 
+.reasons1{
+    display: flex;
+    margin-top: 30px;
+}
+h4{
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+.sandbox1 h4 p{
+    text-align: center;
+    margin: 2px;
+}
+.form{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+      text-transform: capitalize;
+    margin-top: -16px;
+}
+
+.sandbox2{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    padding: 40px 200px;
+  
+
+}
+.sandbox2 img{
+    width: 600px;
+    height: 400px;
+ border-radius: 6px;
+  
+}
+.sandbox2 p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+}
+.sandbox2 h5{
+    font-size: 25px;
+    font-weight: 500;
+    
+}
+.sandbox2 button{
+    margin-top: 30px;
+}
+.text{
+    margin-left: 40px;
+}
+.timecontainer{
+    background-color: rgb(248, 248, 248);
+    height: 40vh;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+.save{
+    font-size: 40px;
+    font-weight: bold;
+align-items: center;
+justify-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+   
+}
+.save h3{
+    margin-top: -30px;
+    font-size: 30px;
+}
+.save1{
+    display: flex;
+
+}
+.save2{
+    display: flex;
+    flex-direction: column;
+  justify-content: space-between;
+  width: 250px;
+  align-items: center;
+
+
+}
+
+.save h6 {
+  
+    font-weight: 500;
+    text-transform: capitalize;
+    
+
+}
+
+.time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: white;
+    border-radius: 20PX ;
+    
+}
+.time img{
+    width: 700px;
+    height: 500px;
+    margin-left: -500px;
+    
+}.time1{
+    background-color: #ffffff;
+    color: rgb(139, 133, 133);
+    padding: 20px 30px;
+    font-size: 15px;
+}
+
