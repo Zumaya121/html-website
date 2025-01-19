@@ -19,10 +19,6 @@ h2{
 }
 
 
-.mainParagraph {
-    tex
-}
-.seconParagraph{}
 
 .header1{
     
@@ -542,4 +538,11 @@ h6{
     font-size: 18px;
     margin: 0;
     font-weight: 400;
+}
+.End{
+    background-color: #f3eded;
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
 }
