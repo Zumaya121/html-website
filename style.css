@@ -510,7 +510,7 @@ height: 50%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0F0715;
+    background-color: #854ab3;
 width: 1300px;
 border-radius: 10px;
 
@@ -540,9 +540,29 @@ h6{
     font-weight: 400;
 }
 .End{
-    background-color: #f3eded;
     display: flex;
-  
-    align-items: center;
+  justify-items: center;
+    
     justify-content: center;
+
+}
+.End1{
+    align-items:center ;
+    justify-content: center;
+    margin: 80px;
+}
+.End1 button{
+    background-color: rgb(145, 145, 206);
+    margin-left: -5px;
+    border: none;
+}
+.End1 h6{
+    font-size: 25px;
+    font-weight: 400;
+}
+.input{
+    display: flex;
+    width: 70px;
+    
+    border-radius: 10px;
 }
